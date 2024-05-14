@@ -1,4 +1,4 @@
-# PINNHeat: Physics-Informed Neural Networks for Heat Equation Modeling
+# Physics-Informed Neural Networks for Heat Equation Modeling
 
 PINNHeat is a project that demonstrates the use of Physics-Informed Neural Networks (PINNs) to solve the heat equation. This project utilizes PyTorch to implement a neural network model that learns the solution to the heat equation and generates predictions for temperature distribution over a given domain.
 
